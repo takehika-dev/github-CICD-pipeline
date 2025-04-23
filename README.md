@@ -41,3 +41,7 @@ This project is configured to automatically push Docker images to AWS ECR upon p
 - AWS account
 - Existing ECR repository
 - IAM user with permissions to push images to the ECR repository, with its credentials stored as GitHub repository secrets (`AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_REGION`).
+
+
+## License
+You are free to use this code for personal and educational purposes. Commercial use and redistribution are not allowed.
